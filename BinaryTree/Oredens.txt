@@ -1,0 +1,18 @@
+============================================================
+Pré-Ordem (Raiz - Esquerda - Direita)
+
+-  Raiz → Subárvore Esquerda → Subárvore Direita.
+
+============================================================
+
+Pós-Ordem (Esquerda - Direita - Raiz)
+
+- Subárvore Esquerda → Subárvore Direita → Raiz.
+
+============================================================
+
+Em-Ordem / Ordem Simétrica (Esquerda - Raiz - Direita)
+
+- Subárvore Esquerda → Raiz → Subárvore Direita.
+
+============================================================
